@@ -1,14 +1,14 @@
-.github/ISSUE_TEMPLATE/feature_request.md---
+---
 name: Feature request
 about: Suggest an idea for this project
-title: ''jalan 
-labels: ''metaQuin 
+title: ''
+labels: ''
 assignees: ''
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...metaQuin]MitaQuin/Facebook
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
@@ -18,5 +18,3 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
-bin/rails g spree:model Spree::Brand name:string:index
-https://github.com/a2425rdl/anaway.editorial.meta
